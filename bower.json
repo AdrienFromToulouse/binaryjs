@@ -1,7 +1,7 @@
 {
   "name": "binaryjs",
   "homepage": "https://github.com/AdrienFromToulouse/binaryjs",
-  "main": "dist/binary.js",
+  "main": "dist/binary.min.js",
   "ignore": [
     "**/.*",
     "node_modules",
