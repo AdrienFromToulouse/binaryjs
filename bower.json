@@ -1,0 +1,15 @@
+{
+  "name": "binaryjs",
+  "homepage": "https://github.com/AdrienFromToulouse/binaryjs",
+  "main": "dist/binary.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_source": "https://github.com/AdrienFromToulouse/binaryjs",
+  "_originalSource": "https://github.com/AdrienFromToulouse/binaryjs",
+  "_direct": true
+}
